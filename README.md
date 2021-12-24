@@ -1,2 +1,2 @@
-# studydoc
-객체지향 개발 지식 / MSA / Spring / Algorithm / Back-End / Front-End 자료 작성용!!
+# Victor 의 자료 작성 자료실에 오셨습니다.
+## 작성시작일 : 12/24 크리스마스 이브
